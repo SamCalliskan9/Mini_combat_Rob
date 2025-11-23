@@ -14,4 +14,6 @@ t is valuable in the portfolio because it includes movement + attack algorithm
 ## Run the Game
 python Mini-combat_Rob
 
-https://SamCalliskan9/Mini_combat_Rob
+ Clone the repository
+ --- bash
+ git clone  https://github.com/SamCalliskan9/Mini_combat_Rob.git
